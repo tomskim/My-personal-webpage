@@ -47,7 +47,7 @@ li {
 	color: #81d8d0;
 }
 
-.ulist a:hover, .contact {
+.ulist a:hover, .projects {
 	text-decoration: underline;
 	color: #cb7375;
 	background: #d1ddd3;
@@ -67,27 +67,62 @@ a {
 	padding: 12px 15px;
 }
 
-.contacts {
-	text-align: center;
-	margin-top: 40px;
-}
-
-form li{
-	list-style: none;
-	margin-bottom: 25px;	
-}
-
-form ul{
-	text-align: center;
-}
-
-label {
-	display: block;
+.main {
 	margin: auto;
-	font-family: sans-serif;
+	width: 700px;
+	padding-top: 30px;
 }
 
-textarea {
-	width: 200px;
-	height: 200px;
+#download {
+	font-family: "Arial Black", Gadget, sans-serif;
+	text-align: center;
+	color: #cc3300;
+}
+.submain {
+	font-family: sans-serif;
+	line-height: 200%;
+}
+
+#subheading {
+	font-size: 30px;
+	text-align: center;
+	letter-spacing: 5px;
+}
+
+h5 {
+	text-align: center;
+}
+
+.mode h2 {
+	width: 300px;
+	float: left;
+}
+
+
+#p1 {
+	margin-top: 30px;
+	float: center;
+	width: 600;
+	height: 500;
+}
+
+#p2 {
+	margin-top: 30px;
+	float: center;
+	width: 500;
+	height: 900;
+}
+
+.mode {
+	margin-top: 20px;
+}
+
+.body2, .body3 {
+	margin-left: 50px;
+}
+
+#link1, #link2 {
+	margin: 0;
+	padding: 0;
+	color: #456789;
 }

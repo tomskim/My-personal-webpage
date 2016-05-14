@@ -5,12 +5,12 @@ body {
 
 .head {
 	margin: auto;
-	width: 330px;
+	width: 350px;
 }
 
 #heading a { 
 	font-size: 30px;
-	font-family: 'Bitter', monotype;
+	font-family: 'Bitter', monotone;
 	color: #81d8d0;
 	text-shadow: 
 	2px 2px 0 #e8f6f4;
@@ -161,6 +161,53 @@ a {
 }
 
 .info {
+	float: right;
+}
+
+.project3 {
+	width: 950px;
+	margin: auto;
+	padding-top: 50px;
+}
+
+.project3 h2 {
+	font-size: 35px;
+	font-family: sans-serif;
+	margin-top: 20px;
+	margin-bottom: 5px;
+	letter-spacing: 1px;
+}
+
+.project3 img {
+	float: left;
+	margin-top: 20px;
+	margin-left: 80px;
+	width: 340px;
+	height: 250px;
+	border: 10px purple;
+	padding: 1px;
+	border: 3px solid #c3a896;
+	background-color: #5e7703;
+}
+
+.description3 {
+	width: 450px;
+	margin: 20px auto;
+	font-family: sans-serif;
+	font-size: 20px;
+	clear: both;
+	text-indent: -1.5em;
+	padding-left: 1.5em;
+}
+
+.content3 {
+	float: left;
+	width: 450px;
+	margin-left: 25px;
+	margin-bottom: 50px;
+}
+
+.info2 {
 	float: right;
 }
 

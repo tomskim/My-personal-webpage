@@ -1,5 +1,5 @@
 # My personal webpage
- Languages used: html and css (plan to add contents by learning php and javascript)
+ Languages used: html, css and php (plan to add contents by learning javascript)
 
  The address is tomskim.com.
 
